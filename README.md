@@ -1,0 +1,1 @@
+La page JAMStack la plus basique !
