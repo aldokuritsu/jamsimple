@@ -15,5 +15,10 @@ img {
 }
 
 p {
-    color:#777777;
+    color: #777777;
+}
+
+#disqus_thread {
+    margin   : 2rem auto;
+    max-width: 600px;
 }
